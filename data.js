@@ -1,6 +1,6 @@
 /* data.js — program data, block constants, utility functions */
 
-const BLOCK_START = new Date('2026-07-12T00:00:00');
+const BLOCK_START = new Date('2026-07-13T00:00:00');
 const BLOCK_END   = new Date('2026-08-31T23:59:59');
 
 const PHASES = [
